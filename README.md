@@ -1,2 +1,2 @@
 # Chatbots
-Creación de chatbots
+Creación de chatbots usando Gemini y Telegram
